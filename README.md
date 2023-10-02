@@ -8,5 +8,4 @@ Hi, I'm [Mohamed Ndiaye], a [Marketing and Journalism student] at [Lehigh Univer
 Feel free to explore my portfolio to see some of my projects and work!
 
 ![Student Enrollment Infographic](https://github.com/Mon224/Mon224.GitHub.io/blob/main/Student%20Enrollment.png?raw=true) 
-![NBA 2022-23 Scoring Leaders](Mon224.GitHub.io/NBA Scoring Leaders 2022-23 (1).png)
-![NBA 2022-23 Scoring Leaders](!https://github.com/Mon224/Mon224.GitHub.io/assets/145939268/c7e42733-1d50-4eb4-93dc-8037d889d711)
+![NBA 2022-23 Scoring Leaders](https://github.com/Mon224/Mon224.GitHub.io/blob/main/NBA%20Scoring%20Leaders%202022-23%20(1).png) 
