@@ -9,3 +9,8 @@ Feel free to explore my portfolio to see some of my projects and work!
 
 ![Student Enrollment Infographic](https://github.com/Mon224/Mon224.GitHub.io/blob/main/Student%20Enrollment.png?raw=true) 
 ![NBA 2022-23 Scoring Leaders](https://github.com/Mon224/Mon224.GitHub.io/blob/main/NBA%20Scoring%20Leaders%202022-23%20(1).png) 
+
+
+## Kobe Bryant
+Description 
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kHrL14cMMv1whKGy5cO5lP7kDiZhA7Qi_mpLR3K8nFA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
