@@ -19,5 +19,6 @@ Reference (https://www.nba.com/stats/leaders)
 
 ## Kobe Bryant
 Description 
+Kobe Bryant was the 13th pick in the 1996 draft and he put together one of the most extraordinary careers in the history of the NBA. Kobe's sheer will and love for the game allowed him to squeeze every bit of talent in him in order to win. Kobe's mamba mentality is why he resonated with so many people as he inspired many people never to give up no matter what. Unfortunately, in 2020 Kobe Bryant died in a helicopter crash in what is considered one of the saddest days ever for the sports world however this is the reason why I chose him for my timeline project to celebrate his amazing career and life. 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1kHrL14cMMv1whKGy5cO5lP7kDiZhA7Qi_mpLR3K8nFA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
