@@ -8,7 +8,12 @@ Hi, I'm [Mohamed Ndiaye], a [Marketing and Journalism student] at [Lehigh Univer
 Feel free to explore my portfolio to see some of my projects and work!
 
 ![Student Enrollment Infographic](https://github.com/Mon224/Mon224.GitHub.io/blob/main/Student%20Enrollment.png?raw=true) 
+
+## NBA 2023 Scoring Leaders Infographic Project 
 ![NBA 2022-23 Scoring Leaders](https://github.com/Mon224/Mon224.GitHub.io/blob/main/NBA%20Scoring%20Leaders%202022-23%20(1).png?raw=true) 
+
+This project was for our infographic, for this visualization I decided to show the top 5 scoring leaders in the 2022-23 NBA season. This season 
+
 
 
 ## Kobe Bryant
