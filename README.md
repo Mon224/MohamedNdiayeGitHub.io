@@ -42,3 +42,9 @@ This was an in-class activity where we basically looked at the undergraduate enr
 Description 
 This was an in-class activity where we basically looked at the 2017 Life satisfaction and GPD per capita data set and created a scatter plot. 
 ![Life Satisfaction and GDP per Capita] (https://github.com/Mon224/Mon224.GitHub.io/blob/main/Lehigh_University_Yearly_Enrollment_by_College__arts&science__business__engineering__chartbuilder%20(1).png?raw=true) 
+
+## Line Chart HW 
+Description 
+In the National Basketball Association, there are players who have been scouted since they were kids and were destined to have hall-of-fame careers. A player like Lebron James was instantly given the keys in Cleveland and was expected to carry the team on his back straight out of high school which he did and went on to have the greatest career ever. However, players like Harden and Curry were not labeled the chosen one instantly as Harden came off the bench and was considered the third fiddle in Oklahoma until he ended up leaving that team and making a name for himself in Houston. Meanwhile, a player like Curry who went to a small school like Davidosn and had to grind his way into becoming a household name did not see instant success in the NBA however once it clicked he became arguably one of the greatest ever. Ultimately these three players are undeniably some of the greatest players of this generation and today we will track their scoring since they've all been in the league.  
+
+![Great Scorers Of This Generation] (https://github.com/Mon224/Mon224.GitHub.io/blob/main/Greatest_Scorers_of_This_generation_lebron_james__stephen_curry__James_Harden_chartbuilder.png?raw=true)
