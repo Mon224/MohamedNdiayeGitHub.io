@@ -37,3 +37,8 @@ Within this bar chart, I decided to look into the diversity of Lehigh University
 Description 
 This was an in-class activity where we basically looked at the undergraduate enrollment by college at Lehigh University from the year 2019 - 2023. The dataset consisted of the college of engineering, arts & science and business. 
 ![Undergraduate Population by College](https://github.com/Mon224/Mon224.GitHub.io/blob/main/Lehigh_University_Yearly_Enrollment_by_College__arts&science__business__engineering__chartbuilder%20(1).png?raw=true) 
+
+## Scatter Plot 
+Description 
+This was an in-class activity where we basically looked at the 2017 Life satisfaction and GPD per capita data set and created a scatter plot. 
+![Life Satisfaction and GDP per Capita] (https://github.com/Mon224/Mon224.GitHub.io/blob/main/Lehigh_University_Yearly_Enrollment_by_College__arts&science__business__engineering__chartbuilder%20(1).png?raw=true) 
