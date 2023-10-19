@@ -31,3 +31,9 @@ Within this bar chart, I decided to look into the diversity of Lehigh University
 
 ![Undergraduate Population Percentage by ethnicity] (https://Mon224.github.io/MohamedndiayeBarChart.png)
 ![My image]  (![image](https://github.com/Mon224/Mon224.GitHub.io/assets/145939268/7a2a932e-3733-4710-a85d-f634dc11a904)
+
+
+## Time series Chart 
+Description 
+This was an in-class activity where we basically looked at the undergraduate enrollment by college at Lehigh University from the year 2019 - 2023. The dataset consisted of the college of engineering, arts & science and business. 
+![Undergraduate Population by College](https://github.com/Mon224/Mon224.GitHub.io/blob/main/Lehigh_University_Yearly_Enrollment_by_College__arts&science__business__engineering__chartbuilder%20(1).png?raw=true) 
